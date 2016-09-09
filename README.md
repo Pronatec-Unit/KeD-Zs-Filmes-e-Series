@@ -10,7 +10,6 @@ Esse projeto será especifico para deixar todos dentro das novidades sobre os fi
 
 ## Cronograma
 Data | Atividade
------------- | -------------
-10/09 | Descrever atividade
-20/09 | Descrever atividade
+08/09	Entrega do Wireframe
+09/09	Envio de telas
 
