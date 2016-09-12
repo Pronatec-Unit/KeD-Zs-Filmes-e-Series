@@ -1,4 +1,4 @@
-# keD'Zs-Filmes e Séries
+# KeD'Zs-Filmes e Séries
 Esse projeto será especifico para deixar todos dentro das novidades sobre os filmes e séries
 
 
@@ -12,6 +12,5 @@ Esse projeto será especifico para deixar todos dentro das novidades sobre os fi
 Data | Atividade
 
 08/09	Entrega do Wireframe
-
-09/09	Envio de telas
+14/09	Envio de telas
 
