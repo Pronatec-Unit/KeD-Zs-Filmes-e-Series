@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Notas</string>
-    <string name="nota_01">Nota 01</string>
-    <string name="nota_02">Nota 02</string>
-    <string name="calcular">Calcular</string>
-    <string name="limpar">Limpar</string>
-</resources>
