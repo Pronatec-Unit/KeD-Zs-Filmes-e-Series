@@ -14,5 +14,8 @@ Data | Atividade
 08/09 | Entrega do wireframe (Telas)
 14/09 | Envio do Wireframe (Telas)
 
+## Enviar para o Github os códigos criados para apresentação da proxima semana
+28/09 
+29|09 apresentação do trabalho
 
 
