@@ -14,7 +14,6 @@ Data | Atividade
 08/09 | Entrega do wireframe (Telas)
 14/09 | Envio do Wireframe (Telas)
 28/09 | Disponibilização do material da apresentação
-12/10 | Inicio da produção das telas no Android studio
-
+12/10 | Inicio da produção das telas no Android studio 
 
 
