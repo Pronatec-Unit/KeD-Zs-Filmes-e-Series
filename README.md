@@ -17,4 +17,5 @@ Data | Atividade
 12/10 | Inicio da produção das telas no Android studio 
 17/10 | Finalização das telas
 17/10 | Começo da interação entre as telas(Participação apenas de Kaik e Zelita)
+19/10 | Finalização do projeto
 
