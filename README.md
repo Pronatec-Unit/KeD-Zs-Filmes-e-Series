@@ -18,4 +18,5 @@ Data | Atividade
 17/10 | Finalização das telas
 17/10 | Começo da interação entre as telas(Participação apenas de Kaik e Zelita)
 19/10 | Finalização do projeto
+27/10 | Reunião com a equipe e definição de um novo projeto (ProUnit)
 
