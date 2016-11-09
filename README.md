@@ -20,4 +20,4 @@ Data | Atividade
 19/10 | Finalização do projeto
 27/10 | Reunião com a equipe e definição de um novo projeto (ProUnit)
 28/10 | Inicio e termino dos WireFrames
-04/11 | Reunião com a equipe e comço de ligação das telas no Android Studio
+04/11 | Reunião com a equipe e começo de ligação das telas no Android Studio
